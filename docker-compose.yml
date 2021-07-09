@@ -1,0 +1,14 @@
+version: "3.9"
+services:
+  databaseService:
+    build:
+      context: ./databaseService
+      dockerfile: Dockerfile
+  databaseService:
+    build:
+      context: ./databaseService
+      dockerfile: Dockerfile
+  databaseService:
+    build:
+      context: ./databaseService
+      dockerfile: Dockerfile
